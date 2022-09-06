@@ -1,9 +1,0 @@
-﻿  stdafx.cpp
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
-          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\atlmfc\include\afx.h(33) : 'MBCS_Support_Deprecated_In_MFC' 선언을 참조하십시오.
-  JumMeChu_Pjt.cpp
-  JumMeChu_PjtDlg.cpp
-JumMeChu_PjtDlg.cpp(261): warning C4101: 'i_res' :참조되지 않은 지역 변수입니다.
-  코드를 생성하고 있습니다.
-  코드를 생성했습니다.
-  JumMeChu_Pjt.vcxproj -> D:\my project\JMC\JumMeChu_Pjt\x64\Release\JumMeChu_Pjt.exe
